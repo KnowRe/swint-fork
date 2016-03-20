@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KnowRe/swint-fork.git"
+    "url": "https://github.com/KnowRe-Dev/swint-fork.git"
   },
   "keywords": [
     "swint",
@@ -19,12 +19,12 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KnowRe/swint-fork/issues"
+    "url": "https://github.com/KnowRe-Dev/swint-fork/issues"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/KnowRe/swint-fork",
+  "homepage": "https://github.com/KnowRe-Dev/swint-fork",
   "dependencies": {
     "async": "^1.5.2",
     "swint-helper": "1.x"
