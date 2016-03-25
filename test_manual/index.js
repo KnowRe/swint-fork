@@ -17,6 +17,7 @@ var fork = swintFork({
 		onExit: function(fork) {
 			print('process killed');
 		},
+		numFork: 4,
 		operator: swintProcOps({
 			server: {
 				enabled: true
