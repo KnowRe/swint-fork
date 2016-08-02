@@ -1,3 +1,6 @@
+2016.08.02, Version 1.2.2
+ * Fix: sharedData is also reset on resetAll
+
 2016.07.27, Version 1.2.1
  * Fix: Reset event is not blocking anymore
 
