@@ -1,4 +1,6 @@
 # swint-fork
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint-fork.svg)](https://greenkeeper.io/)
 Process behaviour(fork, common/separate execution of code chunk, etc.) manager for Swint
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
