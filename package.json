@@ -1,6 +1,6 @@
 {
   "name": "swint-fork",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Process behaviour(fork, common/separate execution of code chunk, etc.) manager for Swint",
   "main": "lib/index.js",
   "scripts": {
