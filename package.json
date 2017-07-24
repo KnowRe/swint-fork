@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-fork",
   "dependencies": {
-    "async": "2.4.1",
-    "swint-helper": "1.2.5"
+    "async": "2.5.0",
+    "swint-helper": "1.2.6"
   },
   "devDependencies": {
     "mocha": "3.4.2",
-    "eslint": "4.0.0",
+    "eslint": "4.3.0",
     "request": "2.81.0",
-    "swint-proc-ops": "1.0.8"
+    "swint-proc-ops": "1.0.9"
   }
 }
