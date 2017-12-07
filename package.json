@@ -33,6 +33,6 @@
     "mocha": "4.0.1",
     "eslint": "4.12.1",
     "request": "2.83.0",
-    "swint-proc-ops": "1.0.10"
+    "swint-proc-ops": "1.0.12"
   }
 }
